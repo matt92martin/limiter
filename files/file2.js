@@ -1,1 +1,1 @@
-alert('code not running')
+console.log('code not running')

@@ -1,1 +1,1 @@
-alert('Code running')
+console.log('Code running')
