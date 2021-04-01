@@ -1,0 +1,16 @@
+{
+  "environments": {
+    "review": {
+      "formation": {
+        "web": {
+          "quantity": 1,
+          "size": "free"
+        }
+      },
+      "addons": [
+        "heroku-postgresql:hobby-dev",
+        "papertrail:choklad"
+      ]
+    }
+  }
+}
